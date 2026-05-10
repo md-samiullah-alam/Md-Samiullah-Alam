@@ -1,81 +1,116 @@
-<h1 align="center">Hi 👋, I'm Md Samiullah Alam</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Full-Stack & MERN Stack Developer
-</h3>
+# 👨‍💻 MD SAMIULLAH ALAM
 
-<p align="center">
-🚀 Passionate about building scalable web applications <br>
-🌱 Currently learning Advanced Backend & System Design
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Passionate+About+Clean+UI+%26+Backend" />
 
----
+<br>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72D&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Always+Learning+New+Things" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=md-samiullah-alam&label=PROFILE+VIEWS&color=00aa66&style=for-the-badge" />
 
----
+<img src="https://img.shields.io/github/followers/md-samiullah-alam?style=for-the-badge&color=green" />
 
-# 🧠 About Me
+<img src="https://img.shields.io/github/stars/md-samiullah-alam?style=for-the-badge&color=yellow" />
 
-- 🔥 Full-Stack Web Developer
-- ⚡ MERN Stack Developer
-- 🌐 Building real-world scalable applications
-- 🛠️ Love clean UI & optimized backend
-- 📚 Exploring System Design & Cloud
-- 🚀 Open to collaboration & freelance projects
+</div>
 
 ---
 
-# 🌐 Connect With Me
+<table>
+<tr>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/md-samiullah-alam-9ab0921a9/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
+<td width="35%" valign="top">
 
-<a href="mailto:mdsamiullahalam323@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-</p>
+# 🟢 ABOUT ME
+
+💻 Full Stack Developer  
+⚡ MERN Stack Specialist  
+🚀 Passionate about scalable applications  
+🌱 Learning System Design & Cloud  
+🎯 Goal → Elite Software Engineer  
 
 ---
 
-# 💻 Tech Stack
+# 📞 CONTACT
 
-### 🚀 Frontend
+📧 mdsamiullahalam323@gmail.com
+
+🌐 LinkedIn  
+https://www.linkedin.com/in/md-samiullah-alam-9ab0921a9/
+
+💻 GitHub  
+https://github.com/md-samiullah-alam
+
+---
+
+# 🛠️ TECH STACK
+
+### Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend
+### Backend
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Database
+### Database
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🛠️ Tools & Platforms
+### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🧠 SKILLS
+
+✔️ REST APIs  
+✔️ Authentication  
+✔️ Responsive UI  
+✔️ CRUD Operations  
+✔️ State Management  
+✔️ Deployment  
+
+---
+
+# 🌍 LANGUAGES
+
+✅ English  
+✅ Hindi  
+✅ Urdu  
+
+</td>
+
+<td width="65%" valign="top">
+
+# 🚀 PROFESSIONAL PROFILE
+
+Highly motivated Full Stack MERN Developer with strong expertise in building scalable and real-world web applications using React.js, Node.js, Express.js, and MongoDB.
+
+Focused on clean UI, optimized backend architecture, and modern development practices.
+
+Passionate about solving real-world problems through technology and continuously improving technical skills.
+
+---
+
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-samiullah-alam&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-samiullah-alam&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=md-samiullah-alam&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-samiullah-alam&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 GITHUB STREAK
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-samiullah-alam&theme=tokyonight&hide_border=true" />
@@ -83,57 +118,60 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 CONTRIBUTION GRAPH
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=md-samiullah-alam&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-samiullah-alam&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 ACHIEVEMENTS
 
-[![Md Samiullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=md-samiullah-alam&theme=tokyo-night)](https://github.com/md-samiullah-alam)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=md-samiullah-alam&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
 ## 🌐 Delegation Portal
 🔗 https://epildoerportal.vercel.app/delegation
 
+Modern delegation management system with secure workflows and responsive UI.
+
+---
+
 ## 🏢 Admin Portal
 🔗 https://epiladminportal.vercel.app/
+
+Advanced admin dashboard with analytics and management modules.
+
+---
 
 ## 💳 Payments Follow-up Portal
 🔗 https://payments-followup-portal.vercel.app/
 
----
-
-# 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=md-samiullah-alam&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+Payment tracking and follow-up management application.
 
 ---
 
-# ✨ Random Dev Quote
+# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://raw.githubusercontent.com/md-samiullah-alam/md-samiullah-alam/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# 😂 Random Dev Meme
+# 💡 CURRENT FOCUS
 
-<p align="center">
-<img src="https://randommeme-five.vercel.app/" width="400px"/>
-</p>
-
----
-
-<h3 align="center">
-⭐ "Code is the tool, creation is the goal."
-</h3>
+```javascript
+const Samiullah = {
+  learning: ["System Design", "Cloud", "Advanced Backend"],
+  frontend: ["React", "Redux", "Tailwind"],
+  backend: ["Node.js", "Express"],
+  database: ["MongoDB", "MySQL"],
+  goal: "Building scalable full-stack applications"
+}
