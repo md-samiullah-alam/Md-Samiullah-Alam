@@ -2,7 +2,7 @@
 
 # 👨‍💻 MD SAMIULLAH ALAM
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Passionate+About+Clean+UI+%26+Backend" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;ERP+Technical+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 
 <br>
 
@@ -23,11 +23,12 @@
 
 # 🟢 ABOUT ME
 
-💻 Full Stack Developer  
+💻 Full Stack Software Developer  
 ⚡ MERN Stack Specialist  
-🚀 Passionate about scalable applications  
-🌱 Learning System Design & Cloud  
-🎯 Goal → Elite Software Engineer  
+🚀 ERP Technical Developer  
+🌱 Learning Advanced Backend & System Design  
+🎯 Passionate About Scalable Applications  
+🔥 Love Clean UI & Optimized Backend  
 
 ---
 
@@ -43,38 +44,27 @@ https://github.com/md-samiullah-alam
 
 ---
 
-# 🛠️ TECH STACK
+# 🚀 TECH STACK
 
-### Frontend
+### 🎨 Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" />
 </p>
 
-### Backend
+### ⚙️ Backend
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+### 🗄️ Database
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Tools
+### ☁️ Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify" />
 </p>
-
----
-
-# 🧠 SKILLS
-
-✔️ REST APIs  
-✔️ Authentication  
-✔️ Responsive UI  
-✔️ CRUD Operations  
-✔️ State Management  
-✔️ Deployment  
 
 ---
 
@@ -84,28 +74,66 @@ https://github.com/md-samiullah-alam
 ✅ Hindi  
 ✅ Urdu  
 
+---
+
+# 🧠 CORE SKILLS
+
+✔️ ERP Technical Development  
+✔️ PL/SQL Programming  
+✔️ SQL Optimization  
+✔️ Query Optimization  
+✔️ Stored Procedures  
+✔️ Data Modeling  
+✔️ Systems Integration  
+✔️ Workflow Automation  
+✔️ Business Logic  
+✔️ Application Development  
+✔️ Backend Development  
+✔️ API Integration  
+✔️ REST Services  
+✔️ System Deployment  
+✔️ Software Testing  
+✔️ Bug Fixing  
+✔️ Performance Tuning  
+✔️ System Monitoring  
+✔️ Technical Support  
+✔️ Issue Resolution  
+✔️ Code Optimization  
+✔️ Data Validation  
+✔️ Requirement Analysis  
+✔️ Solution Design  
+✔️ Agile Development  
+✔️ Documentation Writing  
+✔️ User Support  
+✔️ ERP Customization  
+✔️ Module Integration  
+✔️ Report Development  
+✔️ Script Writing  
+✔️ Process Improvement  
+✔️ System Security  
+
 </td>
 
 <td width="65%" valign="top">
 
-# 🚀 PROFESSIONAL PROFILE
+# 👨‍💻 PROFESSIONAL PROFILE
 
-Highly motivated Full Stack MERN Developer with strong expertise in building scalable and real-world web applications using React.js, Node.js, Express.js, and MongoDB.
+🚀 Full Stack Software Developer with expertise in building scalable, secure, and high-performance web applications using modern technologies like React.js, Node.js, Express.js, MongoDB, and JavaScript.
 
-Focused on clean UI, optimized backend architecture, and modern development practices.
+💻 Skilled in frontend development, backend architecture, REST API development, database management, workflow automation, ERP customization, and deployment workflows.
 
-Passionate about solving real-world problems through technology and continuously improving technical skills.
+⚡ Passionate about clean code, system optimization, modern UI/UX, and solving real-world business problems through technology.
+
+🌱 Continuously learning advanced backend systems, cloud technologies, and enterprise-grade software architecture.
 
 ---
 
 # 📊 GITHUB ANALYTICS
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=md-samiullah-alam&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-samiullah-alam&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-samiullah-alam&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-samiullah-alam&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -126,7 +154,7 @@ Passionate about solving real-world problems through technology and continuously
 
 ---
 
-# 🏆 ACHIEVEMENTS
+# 🏆 GITHUB TROPHIES
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=md-samiullah-alam&theme=algolia&no-frame=true&row=1&column=6" />
@@ -139,21 +167,63 @@ Passionate about solving real-world problems through technology and continuously
 ## 🌐 Delegation Portal
 🔗 https://epildoerportal.vercel.app/delegation
 
-Modern delegation management system with secure workflows and responsive UI.
+✨ Real-world delegation management system with secure workflow and responsive UI.
 
 ---
 
 ## 🏢 Admin Portal
 🔗 https://epiladminportal.vercel.app/
 
-Advanced admin dashboard with analytics and management modules.
+✨ Advanced admin dashboard with analytics, workflow management, and system monitoring.
 
 ---
 
 ## 💳 Payments Follow-up Portal
 🔗 https://payments-followup-portal.vercel.app/
 
-Payment tracking and follow-up management application.
+✨ Payment tracking and automated follow-up management application.
+
+---
+
+# 💻 FULL STACK EXPERTISE
+
+### 🌐 Frontend Development
+✔️ React.js  
+✔️ JavaScript  
+✔️ Redux  
+✔️ Tailwind CSS  
+✔️ Bootstrap  
+✔️ Responsive UI  
+
+---
+
+### ⚙️ Backend Development
+✔️ Node.js  
+✔️ Express.js  
+✔️ REST APIs  
+✔️ Authentication & Authorization  
+✔️ Middleware Development  
+✔️ API Integration  
+
+---
+
+### 🗄️ Database & Query
+✔️ MongoDB  
+✔️ MySQL  
+✔️ SQL  
+✔️ PL/SQL  
+✔️ Query Optimization  
+✔️ Stored Procedures  
+
+---
+
+### ☁️ Deployment & Tools
+✔️ Git & GitHub  
+✔️ Postman  
+✔️ VS Code  
+✔️ Vercel  
+✔️ Netlify  
+✔️ Deployment & Hosting  
 
 ---
 
@@ -169,9 +239,39 @@ Payment tracking and follow-up management application.
 
 ```javascript
 const Samiullah = {
-  learning: ["System Design", "Cloud", "Advanced Backend"],
-  frontend: ["React", "Redux", "Tailwind"],
-  backend: ["Node.js", "Express"],
-  database: ["MongoDB", "MySQL"],
-  goal: "Building scalable full-stack applications"
+    role: "Full Stack Software Developer",
+
+    frontend: [
+        "React.js",
+        "JavaScript",
+        "Redux",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "REST APIs"
+    ],
+
+    database: [
+        "MongoDB",
+        "MySQL",
+        "PL/SQL"
+    ],
+
+    expertise: [
+        "ERP Development",
+        "Workflow Automation",
+        "Performance Optimization",
+        "System Integration"
+    ],
+
+    currentlyLearning: [
+        "System Design",
+        "Cloud Computing",
+        "Advanced Backend"
+    ],
+
+    lifeGoal: "Build scalable enterprise-level applications 🚀"
 }
